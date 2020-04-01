@@ -32,5 +32,8 @@ npm run start
  ```sh
 npm run dev
  ```
+![1](https://user-images.githubusercontent.com/56714457/78108513-c2d98700-7421-11ea-8ff9-a764e3fb0376.png)
+
+![2](https://user-images.githubusercontent.com/56714457/78108583-e4d30980-7421-11ea-9f57-714364c6bebf.png)
 
  
